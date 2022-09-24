@@ -1,5 +1,7 @@
 ![FormField Mini Apps](docs/FormField-Mini-App_StripeCon22-Julian-Scheuchenzuber.png)
 
+[Watch the Lightning Talk on Youtube 📺](https://youtu.be/lWIcYv05RGg)
+
 Demo repository for Lightning Talk "**FormField Mini Apps** with the JavaScript framework/lib/style of your choice" @ [StripeCon EU 2022](https://stripecon.eu) in Stockholm.
 
 ---
